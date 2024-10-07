@@ -13,3 +13,11 @@ a:visited, a:active, a:link, a:hover {
     color:darkgray;
     font-size: large;
 }
+#download {
+    background-color: DodgerBlue;
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 20px;
+}
