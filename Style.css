@@ -10,6 +10,11 @@ h1 {
     color: white;
 }
 
+h3 {
+    font-family: "Edu AU VIC WA NT Dots", sans-serif;
+    color: white;
+}
+
 a:visited, a:active, a:link, a:hover {
     color:white;
     font-size: large;
