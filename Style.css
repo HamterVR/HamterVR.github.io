@@ -17,7 +17,7 @@ h3 {
 
 a:visited, a:active, a:link, a:hover {
     color:white;
-    font-size: large;
+    font-size: larger;
 }
 #download {
     background-color: white;
