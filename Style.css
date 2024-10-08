@@ -33,7 +33,7 @@ a:visited, a:active, a:link, a:hover {
     background-color: white;
     border: none;
     color: rgb(0, 0, 0);
-    padding: 7px 24px;
+    padding: 5px 22px;
     cursor: pointer;
-    font-size: 23px;
+    font-size: 16px;
 }
