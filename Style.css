@@ -26,11 +26,11 @@ h2 {
 }
 
 a:visited, a:active, a:link, a:hover {
-    color:rgb(150, 150, 150);
+    color:rgb(190, 190, 190);
     font-size: larger;
 }
 #download {
-    background-color: rgb(150, 150, 150);
+    background-color: rgb(190, 190, 190);
     border: none;
     color: rgb(0, 0, 0);
     padding: 5px 22px;
