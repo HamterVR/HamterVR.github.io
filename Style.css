@@ -37,3 +37,12 @@ a:visited, a:active, a:link, a:hover {
     cursor: pointer;
     font-size: 16px;
 }
+
+#discord {
+    background-color: blue;
+    border: black;
+    color: rgb(0, 0, 0);
+    padding: 5px 22px;
+    cursor: pointer;
+    font-size: 16px;
+}
