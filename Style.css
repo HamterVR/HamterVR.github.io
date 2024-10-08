@@ -17,7 +17,7 @@ h3 {
 
 h4 {
     font-family: "sans-serif", sans-serif;
-    color: grey;
+    color: rgb(100, 100, 100);
 }
 
 h2 {
@@ -26,11 +26,11 @@ h2 {
 }
 
 a:visited, a:active, a:link, a:hover {
-    color:rgb(140, 140, 140);
+    color:rgb(150, 150, 150);
     font-size: larger;
 }
 #download {
-    background-color: rgb(140, 140, 140);
+    background-color: rgb(150, 150, 150);
     border: none;
     color: rgb(0, 0, 0);
     padding: 5px 22px;
