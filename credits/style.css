@@ -5,8 +5,9 @@
     padding: 7px 24px;
     cursor: pointer;
     font-size: 16px;
-    
-    #1553 {
-        color: white;
-        border: black;
-    }
+}
+
+#mods {
+    color: white;
+    border: black;
+}
