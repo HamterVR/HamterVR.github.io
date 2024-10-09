@@ -31,7 +31,7 @@ a:visited, a:active, a:link, a:hover {
 }
 #download {
     background-color: white;
-    border: none;
+    border: rgb(113, 113, 113);
     color: rgb(0, 0, 0);
     padding: 5px 22px;
     cursor: pointer;
@@ -40,7 +40,7 @@ a:visited, a:active, a:link, a:hover {
 
 #discord {
     background-color: rgb(0, 90, 192);
-    border: black;
+    border: rgb(2, 56, 171);
     color: rgba(0, 0, 0, 0.217);
     padding: 5px 22px;
     cursor: pointer;
@@ -48,8 +48,8 @@ a:visited, a:active, a:link, a:hover {
 }
 
 #tiktok {
-    background-color: rgb(0, 0, 0);
-    border: black;
+    background-color: rgb(166, 2, 175);
+    border: rgb(96, 2, 107);
     color: rgb(0, 0, 0);
     padding: 5px 22px;
     cursor: pointer;
@@ -57,12 +57,5 @@ a:visited, a:active, a:link, a:hover {
 }
 
 
-#PrivatePolicy {
-    background-color: rgb(158, 0, 155);
-    border: black;
-    color: rgb(107, 0, 105);
-    padding: 5px 22px;
-    cursor: pointer;
-    font-size: 16px;
-}
+
 
