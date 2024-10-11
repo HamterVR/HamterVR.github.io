@@ -40,7 +40,8 @@ a:visited, a:active, a:link, a:hover {
 }
 
 #discord {
-    background-color: rgb(0, 90, 192);
+    /*background-color: rgb(0, 90, 192);*/
+    background-image: linear-gradient(rgb(14, 0, 79), rgb(3, 0, 198));
     border: rgb(0, 58, 124);
     color: rgb(0, 0, 0);
     padding: 5px 22px;
@@ -58,7 +59,3 @@ a:visited, a:active, a:link, a:hover {
     font-size: 16px;
     border-radius: 2cm;
 }
-
-
-
-
