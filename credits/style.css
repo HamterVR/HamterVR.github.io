@@ -11,6 +11,7 @@
 #mods {
     color: white;
     border: black;
+    text-align: center;
 }
 
 
@@ -20,7 +21,3 @@
 }
 
 
-p {
-    text-align: center;
-    color: white
-  }
